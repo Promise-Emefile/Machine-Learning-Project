@@ -1,6 +1,4 @@
-# Machine-Learning-Project
-
-## E-commerce Platform Optimization: Mobile App vs Website
+# E-commerce Platform Optimization: Mobile App vs Website
 
 ### Project Overview
 
